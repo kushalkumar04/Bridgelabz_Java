@@ -21,6 +21,8 @@
 - **13-Jan-2026 (Tuesday):** Control Flow Level 1
 - **14-Jan-2026 (Wednesday):** COntrol Flow Level 2 & 3
 - **16-Jan-2026 (Friday):** Reordering the correct Git Structure
+- **17-Jan-2026 (Saturday):** Completed Arrays and Methods
+
 
 
 
