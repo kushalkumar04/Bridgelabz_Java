@@ -29,8 +29,12 @@
 - **23-Jan-2026 (Friday):** Learnt about Object Modeling and class diagrams
 - **24-Jan-2026 (Saturday):** Solved the Problems related to OOPS
 - **27-Jan-2026 (Tuesday):** Understood about Data Structures in JAVA and solved problems in it
-- **28-Jan-2026 (Wednesday):** 
-- 
+- **28-Jan-2026 (Wednesday):** Practised dsa problems and concepts about stacks and queues
+- **29-Jan-2026 (Thursday):** Problems related to stacks and queues and learnt about hashmaps
+- **30-Jan-2026 (Friday):** Prepared For the review and Started the java collections concept
+- **31-Jan-2026 (Saturday):**
+  
+
 
 
 
