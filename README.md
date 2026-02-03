@@ -32,8 +32,12 @@
 - **28-Jan-2026 (Wednesday):** Practised dsa problems and concepts about stacks and queues
 - **29-Jan-2026 (Thursday):** Problems related to stacks and queues and learnt about hashmaps
 - **30-Jan-2026 (Friday):** Prepared For the review and Started the java collections concept
-- **31-Jan-2026 (Saturday):**
+- **31-Jan-2026 (Saturday):** completed the problems related to java collections
+- **2-Feb-2026 (Monday):** completed the problems related to java collections
+- **3-Feb-2026 (Tuesday):** completed the problems related to java collections
+- 
   
+
 
 
 
