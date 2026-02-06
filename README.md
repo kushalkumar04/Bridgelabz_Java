@@ -34,9 +34,12 @@
 - **30-Jan-2026 (Friday):** Prepared For the review and Started the java collections concept
 - **31-Jan-2026 (Saturday):** completed the problems related to java collections
 - **2-Feb-2026 (Monday):** completed the problems related to java collections
-- **3-Feb-2026 (Tuesday):** completed the problems related to java collections
+- **3-Feb-2026 (Tuesday):** Understood concept of IO streams and solved few problems
+- **4-Feb-2026 (Wednesday):** Solved problem statements on IO streams and studied about exception handling
+- **5-Feb-2026 (Thursday):** Learnt about the concept of File handling and practised problems 
 - 
   
+
 
 
 
